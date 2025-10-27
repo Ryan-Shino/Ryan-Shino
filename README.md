@@ -35,7 +35,7 @@ Currently in **Year 2**, I’m focused on both academic and practical projects:
 - **Year 2 coursework:** Theory of Computation, Artificial Intelligence, Functional Programming  
 - **Group project:** Collaborating to build a full-stack application  
 - **Personal projects:**  
-  - **[Movie Finder App](https://findflixapp-ryan-shino.vercel.app)** – React & Vite web app to search, browse, and discover movies; deployed with **Vercel**  
+  - **Movie Finder App** – React & Vite web app to search, browse, and discover movies; deployed with **Vercel**  
   - **Chess App** – Developing a chess application with AI components  
 
 ---
