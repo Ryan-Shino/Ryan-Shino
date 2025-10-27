@@ -19,11 +19,11 @@ I’m actively seeking a **software engineering internship for Summer 2026**, wh
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Concepts & Practices:** 
-- **Object-Oriented Programming (OOP)
-- **Data Structures & Algorithms (DSA)
-- **Relational Databases (SQL)
-- **Software Testing (Unit Testing)
-- **Version Control  
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Relational Databases (SQL)
+- Software Testing (Unit Testing)
+- Version Control  
 
 ---
 
