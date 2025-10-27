@@ -52,5 +52,5 @@ Currently in **Year 2**, I’m focused on both academic and practical projects:
 
 | Project | Description | Live |
 |---------|-------------|------|
-| Movie Finder App | Full-stack React & Vite web app with TMDb API integration | [Live on Vercel]([https://findflixapp-ryan-shino.vercel.app]) |
+| Movie Finder App | Full-stack React & Vite web app with TMDb API integration | [Live on Vercel]([[https://findflixapp-ryan-shino.vercel.app]](https://findflix-ryan-shino.vercel.app/)) |
 | Chess App | Chess game with AI logic and interactive UI | *(In progress)* |
