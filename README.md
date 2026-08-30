@@ -1,8 +1,8 @@
 # Hi, I'm Ryan Shino
 
-I'm a **second-year Computer Science student at the University of Southampton** with a passion for building practical software and solving challenging problems.
+I'm a **third-year Computer Science student at the University of Southampton** with a passion for building practical software and solving challenging problems.
 
-I’m actively seeking a **software engineering internship for Summer 2026**, where I can contribute to meaningful projects, collaborate with experienced engineers, and continue growing my skills.
+I’m actively seeking a **software engineering internship for Summer 2027**, where I can contribute to meaningful projects, collaborate with experienced engineers, and continue growing my skills.
 
 ---
 
