@@ -34,17 +34,6 @@ I’m actively seeking a **software engineering internship for Summer 2027**, wh
 
 ---
 
-## Currently Learning & Building
-
-Currently in **Year 2**, I’m bridging the gap between software development, data analysis, and operations:
-
-- **DevOps & Infrastructure:** Building a **"Mini Production-Like Web Service"** running inside a Linux VM. This involves setting up **Docker containers**, implementing **CI/CD pipelines**, and configuring system monitoring.
-- **Problem-solving:** Practicing on platforms like LeetCode and HackerRank.
-- **Year 2 Coursework:** Theory of Computation, Artificial Intelligence, Functional Programming.
-- **Group Project:** Collaborating to build a full-stack application using Agile methodologies.
-
----
-
 ## Featured Projects
 
 | Project | Tech Stack | Description | Live |
