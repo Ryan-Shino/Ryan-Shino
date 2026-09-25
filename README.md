@@ -36,6 +36,9 @@ I’m actively seeking a **software engineering internship for Summer 2027**, wh
 
 ## Featured Projects
 
+Check out my portfolio website:
+https://ryanshino.vercel.app/
+
 | Project | Tech Stack | Description | Live |
 |:---|:---|:---|:---|
 | **Multiplayer Chess AI** | React, PeerJS, Negamax Algo | A fully playable chess app featuring a **Negamax AI opponent** and real-time P2P multiplayer via **PeerJS**. | [Play Now](https://react-chess-ai.vercel.app/) |
